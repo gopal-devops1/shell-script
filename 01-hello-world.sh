@@ -2,4 +2,4 @@
 
 #this is comment
 
-echo "Hello shell script"
+echo "Hello shell scriptt"
